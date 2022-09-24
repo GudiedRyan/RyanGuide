@@ -1,6 +1,6 @@
 +++
 title = "Biography"
-date = "2022-08-17"
+date = "2022-09-24"
 description = "A little about me"
 showFullContent = false
 readingTime = false
