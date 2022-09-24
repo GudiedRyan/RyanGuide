@@ -1,4 +1,4 @@
 
 ## Welcome!
 
-My name is Ryan Guide. Check
+My name is Ryan Guide. 
