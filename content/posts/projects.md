@@ -1,8 +1,8 @@
 +++
 title = "Projects"
 date = "2022-08-22"
-description = "Notable Work"
-showFullContent = false
+description = "Notable work"
+showFullContent = true
 readingTime = false
 hideComments = false
 +++
